@@ -1,1 +1,1 @@
-# lab-git-project
+# lab-git-project.git
